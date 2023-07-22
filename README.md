@@ -16,6 +16,8 @@ This Turborepo includes the following packages/apps:
 
 ### Apps and Packages
 
+> weitude has modified some of the below structure
+
 - `docs`: a [Next.js](https://nextjs.org/) app
 - `web`: another [Next.js](https://nextjs.org/) app
 - `ui`: a stub React component library shared by both `web` and `docs` applications
