@@ -1,8 +1,11 @@
-const App = () => {
+import Homepage from "./pages/index";
+import NavBar from "./layouts/NavBar.tsx";
 
+const App = () => {
     return (
         <>
-            <div>ScratchGo</div>
+            <NavBar/>
+            <Homepage/>
         </>
     )
 }
