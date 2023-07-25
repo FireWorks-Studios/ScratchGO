@@ -9,5 +9,5 @@ jobs:
         with:
           source_repo: "git@github.com:FireWorks-Studios/ScratchGO.git"
           source_branch: "main"
-          destination_repo: "git@github.com:weitude/sync-ScratchGO.git"
+          destination_repo: "weitude/sync-ScratchGO"
           destination_branch: "main"
