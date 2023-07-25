@@ -7,7 +7,7 @@ jobs:
       - name: git-sync
         uses: wei/git-sync@v3
         with:
-          source_repo: "FireWorks-Studios/ScratchGO"
+          source_repo: "git@github.com:FireWorks-Studios/ScratchGO.git"
           source_branch: "main"
           destination_repo: "weitude/sync-ScratchGO"
           destination_branch: "main"
