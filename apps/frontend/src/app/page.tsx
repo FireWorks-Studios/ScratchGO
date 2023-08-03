@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="flex justify-center">
       <div>
-        <p className="text-2xl">ScratchGO</p>
+        <p className="text-2xl">ScratchGO test</p>
       </div>
     </main>
   );
